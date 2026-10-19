@@ -1,8 +1,8 @@
-# 字幕同步 · 支持与隐私
+# Embedded Subtitle · 支持与隐私
 
 发布者：TAIGE Developer
 
-字幕同步在 Microsoft Edge 的标准 HTML5 网页视频上显示用户选择的本地文字字幕，并根据视频时间同步。支持 SRT、WebVTT 和 ASS/SSA 对白文字；兼容性取决于网站、播放器和授权情况。
+Embedded Subtitle 在 Microsoft Edge 的标准 HTML5 网页视频上显示用户选择的本地文字字幕，并根据视频时间同步。支持 SRT、WebVTT 和 ASS/SSA 对白文字；兼容性取决于网站、播放器和授权情况。
 
 - [隐私政策](https://f4freak1995-dev.github.io/subtitle-sync-support/privacy-policy.html)
 - [公开功能测试页](https://f4freak1995-dev.github.io/subtitle-sync-support/demo.html)
